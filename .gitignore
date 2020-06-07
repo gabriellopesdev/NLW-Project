@@ -1,3 +1,7 @@
 /server/node_modules/
+node_modules/
+/server/uploads/*.jpg
+!/server/uploads/.gitkeep
+/server/src/uploads/
 /web/node_modules/
 *.sqlite
